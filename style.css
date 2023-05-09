@@ -7,3 +7,20 @@ h1{
 #one{
     color: tomato;
 }
+section{
+    display: flex;
+}
+.one{
+    padding: 20px;
+}
+.one img{
+    border: 80%;
+}
+a{
+    background-image: linear-gradient(orange, red);
+    border-radius: 5px;
+    padding: 10px 40px;
+}
+p{
+    border: 50%;
+}

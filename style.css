@@ -27,8 +27,9 @@ p{
     width: 80%;
 }
 .new-one img{
-    border-radius: 15px;
+    border: 80%;
     width: 80%;
+    border-radius: 20px;
 }
 .two-third{
     background-image: linear-gradient(green yellow);
@@ -39,7 +40,4 @@ p{
         background-image: linear-gradient(orange, red);
         border-radius: 5px;
         padding: 10px 40px;
-}
-p{
-    border: 50%;
 }

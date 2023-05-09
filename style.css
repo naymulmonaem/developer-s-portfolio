@@ -23,6 +23,8 @@ a{
     background-image: linear-gradient(orange, red);
     border-radius: 5px;
     padding: 10px 40px;
+    font-weight: 700;
+    color: white;
 }
 p{
     border: 50%;

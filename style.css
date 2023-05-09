@@ -12,9 +12,12 @@ section{
 }
 .one{
     padding: 20px;
+    width: 80%;
 }
 .one img{
     border: 80%;
+    width: 80%;
+    border-radius: 20px;
 }
 a{
     background-image: linear-gradient(orange, red);

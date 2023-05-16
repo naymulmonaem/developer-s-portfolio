@@ -11,8 +11,13 @@ font-size: 50px;
 }
 .half{
     width: 50%;
-    padding: 10px;
+    padding: 20px;
 }
 .half img{
     width: 80%;
+}
+#anchor{
+ text-decoration: none; border-radius: 5px;
+ color: rgb(15, 15, 15); padding: 10px 30px;
+font-size:large;font-weight: 800; background-image: linear-gradient(rgb(226, 144, 22), yellow);
 }

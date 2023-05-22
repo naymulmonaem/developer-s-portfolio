@@ -23,7 +23,13 @@ section{
     background-image: linear-gradient(orange, red);
     border-radius: 5px;
     padding: 10px 40px;
+    color: wheat;
+    text-decoration: none;
+    font-weight: 800;
 }
 p{
     border: 50%;
+}
+#header-one{
+    color: tan;
 }

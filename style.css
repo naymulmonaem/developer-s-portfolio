@@ -8,7 +8,7 @@ h1{
     color: tomato;
 }
 section{
-    display: flex;
+    display: flex; margin-bottom: 150px;
 }
 .one{
     padding: 20px;

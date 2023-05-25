@@ -47,4 +47,5 @@ p{
 }
 footer{
     text-align: center;
+    color: wheat; font-weight: 600; background-color: brown; margin: 10%;padding: 50px;
 }
